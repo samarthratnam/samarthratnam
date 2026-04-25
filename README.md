@@ -1,6 +1,17 @@
-# 💫 About Me:
-👋 Hi, I'm Samarth Ratnam<br>I’m a developer focused on building real-world projects at the intersection of software, AI, and cloud.<br><br>🚀 What I Do<br>Build full-stack web applications<br><br>Work with AI/ML concepts and automation<br><br>Explore cloud and scalable systems<br><br>🧠 Currently<br>Improving problem-solving (LeetCode & CodeChef)<br><br>Building projects like VinylTab (focus music app)<br><br>Experimenting with AI-powered tools<br><br>🛠️ Tech Stack<br>Languages: JavaScript, Python<br><br>Frontend: HTML, CSS, React<br><br>Backend: Node.js, APIs<br><br>Tools: Git, GitHub, VS Code<br><br>📌 Projects<br>Check out my repositories to see what I’m building.<br><br>
+👋 Who am I?
 
+I’m Samarth Ratnam, a developer interested in building real-world applications using software, AI, and cloud technologies.
+
+🚧 What am I currently working on?
+Building projects like VinylTab (focus music app)
+Exploring AI-powered tools and automation
+Improving problem-solving skills (LeetCode, CodeChef)
+🛠️ What tools do I use?
+Languages: JavaScript, Python
+Frontend: HTML, CSS, React
+Backend: Node.js
+Tools: Git, GitHub, VS Code
+📫 How to reach me?
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/barelysamarth) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samarth-v-ratnam-13456534b/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ratnamsamarth) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthratnam20@gmail.com) 
