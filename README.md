@@ -1,6 +1,6 @@
 👋 Who am I?
 
-I’m Samarth Ratnam, a developer interested in building real-world applications using software, AI, and cloud technologies.
+I’m Samarth V Ratnam, a developer interested in building real-world applications using software, AI, and cloud technologies.
 
 🚧 What am I currently working on?
 Building projects like VinylTab (focus music app)
