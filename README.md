@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Samarth Ratnam
 
-<!--
-**samarthratnam/samarthratnam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a developer focused on building real-world projects at the intersection of software, AI, and cloud.
 
-Here are some ideas to get you started:
+🚀 What I Do
+Build full-stack web applications
+Work with AI/ML concepts and automation
+Explore cloud and scalable systems
+🧠 Currently
+Improving problem-solving (LeetCode & CodeChef)
+Building projects like VinylTab (focus music app)
+Experimenting with AI-powered tools
+🛠️ Tech Stack
+Languages: JavaScript, Python
+Frontend: HTML, CSS, React
+Backend: Node.js, APIs
+Tools: Git, GitHub, VS Code
+📌 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Check out my repositories to see what I’m building.
+
+📫 Connect
+GitHub: https://github.com/samarthratnam
